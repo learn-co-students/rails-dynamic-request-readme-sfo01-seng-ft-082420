@@ -1,0 +1,2 @@
+class MeowController < ApplicationController
+end
